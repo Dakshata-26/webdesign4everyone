@@ -1,8 +1,8 @@
 # Web Design
 
 # CUBE
-cube_1 is a simple animated cube using only html and css. Its very easy to understand and implement.
-cube_2 is a very easy illustration of a otating cube using only HTML and CSS.
+#cube_1 is a simple animated cube using only html and css. Its very easy to understand and implement.
+#cube_2 is a very easy illustration of a otating cube using only HTML and CSS.
 
 
 # MAJOR PROJECT
