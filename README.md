@@ -12,5 +12,5 @@ It's a small project I did to make a music player. It's very basic using only HT
 
 ## Screenshots
 
-![App Screenshot](C:\Users\Ramesh\Desktop\Dakshata\github_ss\mp3-1.png)
+![Music Payer Index](C:\Users\Ramesh\Desktop\Dakshata\github_ss\mp3-1.png)
 
